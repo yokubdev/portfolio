@@ -13,9 +13,7 @@ export default function Home() {
             {siteMetadata.description}
           </p>
         </div>
-        <ul className="divide-y divide-gray-200 dark:divide-gray-700">
-
-        </ul>
+        <ul className="divide-y divide-gray-200 dark:divide-gray-700"></ul>
       </div>
       {siteMetadata.newsletter?.provider && (
         <div className="flex items-center justify-center pt-4">
