@@ -14,11 +14,18 @@ const projectsData: Project[] = [
     href: 'https://www.testportal.uz',
   },
   {
-    title: 'Yokubjon.uz portfolio website',
+    title: 'Yokubjon.uz',
     description: `Imagine being able to travel back in time or to the future. Simple turn the knob
     to the desired date and press "Go". No more worrying about lost keys or
     forgotten headphones with this simple yet affordable solution.`,
     href: 'https://yokubjon.uz',
+  },
+  {
+    title: 'Infokiosk',
+    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
+    to the desired date and press "Go". No more worrying about lost keys or
+    forgotten headphones with this simple yet affordable solution.`,
+    href: 'https://infokiosk.netlify.app',
   },
 ]
 

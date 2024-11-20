@@ -5,7 +5,7 @@ const siteMetadata = {
   headerTitle: 'Yokub',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
-  theme: 'system',
+  theme: 'dark',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/yokubdev/portfolio',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
